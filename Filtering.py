@@ -132,7 +132,7 @@ time.sleep(2.0)
 print(""" Update Kardan script 👇:
     	
     	
-rm -rf cod-filtering-keristofer 
+rm -rf cod-filtering-/AbOlTerror
 git clone https://github.com/AbOlTerror
 cd cod-filtering-AbOlTerror
 chmod 777 * 
